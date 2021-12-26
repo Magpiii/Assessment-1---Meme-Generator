@@ -1,1 +1,19 @@
+.meme {
+	position: relative;
+}
 
+.top-text-div {
+	position: absolute;
+	top: 0;
+	left: 160px;
+	text-align: center;
+	font-family: "Maximum Impact", sans-serif;
+}
+
+.bottom-text-div {
+	position: absolute;
+	top: 0;
+	left: 160px;
+	text-align: center;
+	font-family: "Maximum Impact", sans-serif;
+}

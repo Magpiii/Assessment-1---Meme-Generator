@@ -73,5 +73,5 @@ masterDiv.addEventListener('click', function(event) {
    if (event.target.tagName === 'BUTTON') {
        // Remove meme when remove button is clicked. 
        event.target.parentElement.remove();
-   } 
+   }
 });
